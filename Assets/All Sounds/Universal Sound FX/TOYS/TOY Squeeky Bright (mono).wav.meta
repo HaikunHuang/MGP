@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b2d2643c435aa4c4691e3245e0afb4cf
+labels:
+- USFX
+- toy
+- mono
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ecc1e8f5efa58924cabfb9ef51f374a0
+labels:
+- USFX
+- sci-fi
+- stereo
+- menu
+- interface
+- ui
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

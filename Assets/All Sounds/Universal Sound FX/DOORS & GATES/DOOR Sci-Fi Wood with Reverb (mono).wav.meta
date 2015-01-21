@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8daed8e6d09216b4e814577a1dc90bc1
+labels:
+- USFX
+- mono
+- door
+- wood
+- close
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

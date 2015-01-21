@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7d551c8fca9e3f943ae6d64387b9e296
+labels:
+- USFX
+- success
+- puzzle
+- accomplishment
+- stereo
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

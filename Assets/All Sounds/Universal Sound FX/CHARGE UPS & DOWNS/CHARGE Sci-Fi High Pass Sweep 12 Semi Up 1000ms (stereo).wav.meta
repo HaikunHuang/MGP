@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 538739f2f0eeba44f9c67cf6d4dcf980
+labels:
+- USFX
+- charge
+- stereo
+- v1.1
+- sci-fi
+- scifi
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

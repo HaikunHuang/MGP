@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b6c319325ba547a4f9384c4d297cbf9c
+labels:
+- USFX
+- mono
+- handgun
+- handling
+- reload
+- pistol
+- FPS
+- ammo
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

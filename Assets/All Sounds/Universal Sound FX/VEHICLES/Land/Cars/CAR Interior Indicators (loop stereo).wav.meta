@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3cb02a70f2a35f1498f4a92667fa203d
+labels:
+- usfx
+- v1.1
+- car
+- interior
+- indicator
+- stereo
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

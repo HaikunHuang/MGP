@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d425438ff58fba64581d47c19f4306b9
+labels:
+- USFX
+- retro
+- sid
+- chip
+- musiceffect
+- stereo
+- negative
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

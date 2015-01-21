@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: fa52c5e92645e9e43a67c15583b076e3
+labels:
+- USFX
+- ui
+- interface
+- animate
+- appear
+- stereo
+- menu
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

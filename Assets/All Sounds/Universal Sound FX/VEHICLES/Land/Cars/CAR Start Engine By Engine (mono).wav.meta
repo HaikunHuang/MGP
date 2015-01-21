@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: aef81824b1e8c5347bb6a6195b211fd0
+labels:
+- usfx
+- v1.1
+- car
+- engine
+- mono
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

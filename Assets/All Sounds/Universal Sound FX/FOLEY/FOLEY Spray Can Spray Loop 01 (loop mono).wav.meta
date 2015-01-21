@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9f928feafb1dd394191a475b925396f3
+labels:
+- spray
+- spraycan
+- foley
+- usfx
+- v1.1
+- mono
+- loop
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ffb1e076783d0c444b400bcac9c3c0b0
+labels:
+- usfx
+- sonar
+- v1.1
+- ping
+- stereo
+- submarine
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

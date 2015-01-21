@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9bee3b517413ee74d9923af81f820f71
+labels:
+- USFX
+- mono
+- golf
+- sport
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

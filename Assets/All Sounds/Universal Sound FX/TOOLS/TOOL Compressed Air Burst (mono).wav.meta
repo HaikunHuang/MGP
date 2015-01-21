@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 23b6c10e2a4dbc8439fbe6cc1314278d
+labels:
+- v1.1
+- tool
+- burst
+- compressed
+- machine
+- mono
+- USFX
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

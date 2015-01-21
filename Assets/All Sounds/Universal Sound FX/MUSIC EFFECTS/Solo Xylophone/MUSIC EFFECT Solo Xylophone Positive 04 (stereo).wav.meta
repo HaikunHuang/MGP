@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 27527fcd7b11cb140bb91d89e2ea03eb
+labels:
+- USFX
+- stereo
+- musiceffect
+- positive
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

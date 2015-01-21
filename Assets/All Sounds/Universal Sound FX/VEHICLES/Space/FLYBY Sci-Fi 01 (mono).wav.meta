@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2b64ffc35e957c54ba6a5821d67bdd68
+labels:
+- USFX
+- mono
+- flyby
+- space
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

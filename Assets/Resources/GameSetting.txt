@@ -1,0 +1,8 @@
+[Setting]
+# if debug = 1, that show the debug menu on the Main Menu Stage
+debug = 1
+debug_detail = 1
+emailTo = 
+emailFrom = 
+emaliFromPSW = 
+emailSmtp = smtp.qq.com

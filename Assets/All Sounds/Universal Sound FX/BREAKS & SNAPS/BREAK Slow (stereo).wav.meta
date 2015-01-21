@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5ad7c55f6642dc043a544cc89da34ff4
+labels:
+- USFX
+- break
+- stereo
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

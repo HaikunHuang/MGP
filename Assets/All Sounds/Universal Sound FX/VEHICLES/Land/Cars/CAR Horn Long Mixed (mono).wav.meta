@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9bf959198e1eb1f41b2679c023129dfc
+labels:
+- usfx
+- v1.1
+- car
+- horn
+- beep
+- mono
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

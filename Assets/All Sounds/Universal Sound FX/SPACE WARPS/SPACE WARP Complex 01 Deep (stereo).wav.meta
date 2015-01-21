@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ee7440d7311ae8b4d9defb9866c3210d
+labels:
+- USFX
+- warp
+- v1.1
+- stereo
+- sci-fi
+- scifi
+- deep
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

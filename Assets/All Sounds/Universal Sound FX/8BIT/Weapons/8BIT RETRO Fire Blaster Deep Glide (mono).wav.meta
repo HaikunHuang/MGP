@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a1033c2556d3d8d4e9e5d286e981a2b2
+labels:
+- weapon
+- mono
+- blaster
+- USFX
+- 8bit
+- retro
+- sid
+- chip
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

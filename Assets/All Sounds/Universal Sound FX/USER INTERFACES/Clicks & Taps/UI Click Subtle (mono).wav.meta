@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 69bf93726be5c31469e3fb4d139f26fc
+labels:
+- USFX
+- menu
+- click
+- mono
+- ui
+- interface
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

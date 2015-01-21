@@ -1,0 +1,13 @@
+# comment here.
+[Game]
+	name = Mobile Game Project
+	programmer = Hai Kun Huang
+
+
+[Level 1]
+	player = 1
+	goal = Kill all enemies.
+
+[Game]
+	version = 1
+	number = 0.257

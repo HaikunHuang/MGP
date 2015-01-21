@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e698495dd6282124fad15510964910d2
+labels:
+- USFX
+- 8bit
+- retro
+- sid
+- chip
+- explosion
+- mono
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

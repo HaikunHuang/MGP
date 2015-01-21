@@ -1,0 +1,249 @@
+#######################################################################################
+VERSION 1.1 
+#######################################################################################
+
+ADDED ---------------------------------------------------------------------------------
+CHARGE UPS & DOWNS\CHARGE Complex Wet 12 Semi Down 1000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Complex Wet 12 Semi Down 2000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Complex Wet 12 Semi Down 4000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Complex Wet 12 Semi Down 500ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Complex Wet 12 Semi Down 8000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Complex Wet 12 Semi High Loop (loop stereo).wav
+CHARGE UPS & DOWNS\CHARGE Complex Wet 12 Semi Low Loop (loop stereo).wav
+CHARGE UPS & DOWNS\CHARGE Complex Wet 12 Semi Up 1000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Complex Wet 12 Semi Up 2000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Complex Wet 12 Semi Up 4000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Complex Wet 12 Semi Up 500ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Complex Wet 12 Semi Up 8000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Sci-Fi High Pass Sweep 12 Semi Down 1000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Sci-Fi High Pass Sweep 12 Semi Down 2000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Sci-Fi High Pass Sweep 12 Semi Down 4000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Sci-Fi High Pass Sweep 12 Semi Down 500ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Sci-Fi High Pass Sweep 12 Semi Down 8000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Sci-Fi High Pass Sweep 12 Semi High Loop (loop stereo).wav
+CHARGE UPS & DOWNS\CHARGE Sci-Fi High Pass Sweep 12 Semi Low Loop (loop stereo).wav
+CHARGE UPS & DOWNS\CHARGE Sci-Fi High Pass Sweep 12 Semi Up 1000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Sci-Fi High Pass Sweep 12 Semi Up 2000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Sci-Fi High Pass Sweep 12 Semi Up 4000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Sci-Fi High Pass Sweep 12 Semi Up 500ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Sci-Fi High Pass Sweep 12 Semi Up 8000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Servo 24 Semi Down 1000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Servo 24 Semi Down 2000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Servo 24 Semi Down 4000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Servo 24 Semi Down 500ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Servo 24 Semi Down 8000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Servo 24 Semi High Loop (loop stereo).wav
+CHARGE UPS & DOWNS\CHARGE Servo 24 Semi Low Loop (loop stereo).wav
+CHARGE UPS & DOWNS\CHARGE Servo 24 Semi Up 1000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Servo 24 Semi Up 2000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Servo 24 Semi Up 4000ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Servo 24 Semi Up 500ms (stereo).wav
+CHARGE UPS & DOWNS\CHARGE Servo 24 Semi Up 8000ms (stereo).wav
+ELEVATORS & LIFTS\ELEVATOR Movement Loop Mechanic (loop mono).wav
+ENGINES & MOTORS\ENGINE Deep Slow (loop mono).wav
+FOLEY\FOLEY Spray Can Shake 01 (mono).wav
+FOLEY\FOLEY Spray Can Shake 02 (mono).wav
+FOLEY\FOLEY Spray Can Shake 03 Subtle (mono).wav
+FOLEY\FOLEY Spray Can Spray Long (mono).wav
+FOLEY\FOLEY Spray Can Spray Loop 01 (loop mono).wav
+FOLEY\FOLEY Spray Can Spray Loop 02 (loop mono).wav
+FOLEY\FOLEY Spray Can Spray Medium 01 (mono).wav
+FOLEY\FOLEY Spray Can Spray Medium 02 (mono).wav
+FOLEY\FOLEY Spray Can Spray Short 01 (mono).wav
+FOLEY\FOLEY Spray Can Spray Short 02 (mono).wav
+HUMAN\Footsteps\Run Metal\FOOTSTEP Run Shoes Hollow Metal RR1 (mono).wav
+HUMAN\Footsteps\Run Metal\FOOTSTEP Run Shoes Hollow Metal RR2 (mono).wav
+HUMAN\Footsteps\Run Metal\FOOTSTEP Run Shoes Hollow Metal RR3 (mono).wav
+HUMAN\Footsteps\Run Metal\FOOTSTEP Run Shoes Hollow Metal RR4 (mono).wav
+HUMAN\Footsteps\Run Metal\FOOTSTEP Run Shoes Hollow Metal RR5 (mono).wav
+HUMAN\Footsteps\Run Metal\FOOTSTEP Run Shoes Hollow Metal RR6 (mono).wav
+HUMAN\Footsteps\Run Metal\FOOTSTEP Run Shoes Hollow Metal RR7 (mono).wav
+HUMAN\Footsteps\Run Metal\FOOTSTEP Run Shoes Hollow Metal RR8 (mono).wav
+HUMAN\Footsteps\Run Metal\FOOTSTEPS Run Shoes Hollow Metal x8 (mono).wav
+IMPACTS\IMPACT Generic 01 (mono).wav
+IMPACTS\IMPACT Generic 02 (mono).wav
+IMPACTS\IMPACT Generic 03 (mono).wav
+IMPACTS\IMPACT Generic 04 (mono).wav
+IMPACTS\IMPACT Generic 05 (mono).wav
+IMPACTS\IMPACT Generic 06 (mono).wav
+IMPACTS\IMPACT Generic 07 (mono).wav
+IMPACTS\IMPACT Generic 08 (mono).wav
+IMPACTS\IMPACT Generic 09 (mono).wav
+IMPACTS\IMPACT Generic 09 Short (mono).wav
+IMPACTS\IMPACT Generic 10 (mono).wav
+IMPACTS\IMPACT Generic 11 (mono).wav
+IMPACTS\IMPACT Generic 12 (mono).wav
+IMPACTS\IMPACT Generic 13 (mono).wav
+IMPACTS\IMPACT Generic 14 (mono).wav
+IMPACTS\IMPACT Generic 15 (mono).wav
+IMPACTS\IMPACT Generic 16 (mono).wav
+MACHINES & MECHANICS\MACHINE Boiling Molten Metal Furnice (loop mono).wav
+MAGIC SPELLS\MAGIC SPELL Attacking Climbing Bells (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Bending Synth Climb (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Bright Sci-Fi (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Bright Sci-Fi Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Dark Pulse Echo (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Dark Pulse Echo Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Deep Tone Bubbling Zaps (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Deep Tone Bubbling Zaps Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Distinct Thrust Bright Pad (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Distinct Thrust Bright Pad Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Electric Fade In Pan Echo Fade Out (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Fade In Metallic Pingpong Fade (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Fade In Metallic Pingpong Fade Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Fade In Wobble Noise Fade Out (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Fade In Wobble Noise Fade Out Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Fast Bolt Metallic Dirty Tail (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Fast Bolt Metallic Dirty Tail Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Flanger Bright Tail (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Flyby Whoosh Airy Pad (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Flyby Whoosh Airy Pad Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Ghost Metallic Whoosh (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Ghost Metallic Whoosh Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Metallic Fusion Fast Fade In Out (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Metallic Layers Whoosh (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Metallic Rain Down (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Metallic Rain Down Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Metallic Rain Up (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Metallic Rain Up Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Morphing Synth Harp Scales (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Morphing Synth Harp Scales Deep (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Morphing Synth Harp Scales Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Passing Tunnel Sci-Fi Fast Rapid Echo (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Passing Tunnel Sci-Fi Rapid Echo (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Passing Tunnel Sci-Fi Rapid Echo Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Percussive Echo Fade Out (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Percussive Flanger Bright Tail (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Quick Deep Fast Attack Echo Fade (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Quick Percussion Rapid Echo (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Quick Whoosh Echo Out (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Rumble Spooky Vibrato Fade In Out (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Scary Raising Reverse Rain (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Scary Raising Reverse Rain Subtle (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Sharp Beam Reverb Tweet Fade Trail (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Short Fast Burst Quick Fade (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Slow Fade In Bright Pad (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Slow Fade Metallic Wobble Echo (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Stutter Echo (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Stutter Out (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Stutter Out Faded (stereo).wav
+MAGIC SPELLS\MAGIC SPELL Subtle Chopping Fade In Echo Out (stereo).wav
+SPACE WARPS\SPACE WARP Chargup and Warp.wav
+SPACE WARPS\SPACE WARP Complex 01 (stereo).wav
+SPACE WARPS\SPACE WARP Complex 01 Deep (stereo).wav
+SPACE WARPS\SPACE WARP Complex 02 (stereo).wav
+SPACE WARPS\SPACE WARP Complex 03 (stereo).wav
+SPACE WARPS\SPACE WARP Complex 03 Deep (stereo).wav
+SPACE WARPS\SPACE WARP Complex 04 (stereo).wav
+SPACE WARPS\SPACE WARP Complex 04 Deep (stereo).wav
+SPACE WARPS\SPACE WARP Complex 05 (stereo).wav
+SPACE WARPS\SPACE WARP Complex 06 (stereo).wav
+SPACE WARPS\SPACE WARP Type 01 Warp A (stereo).wav
+SPACE WARPS\SPACE WARP Type 01 Warp B (stereo).wav
+SPACE WARPS\SPACE WARP Type 01 Warp C (stereo).wav
+SPACE WARPS\SPACE WARP Type 01A Charge Up 1 (stereo).wav
+SPACE WARPS\SPACE WARP Type 01A Charge Up 1 Deep (stereo).wav
+SPACE WARPS\SPACE WARP Type 01A Max Charge (loop stereo).wav
+SPACE WARPS\SPACE WARP Type 01B Charge Up 1 (stereo).wav
+SPACE WARPS\SPACE WARP Type 01B Charge Up 2 (stereo).wav
+SPACE WARPS\SPACE WARP Type 01B Max Charge (loop stereo).wav
+SPACE WARPS\SPACE WARP Type 02 Warp A (stereo).wav
+SPACE WARPS\SPACE WARP Type 02 Warp B (stereo).wav
+SPACE WARPS\SPACE WARP Type 02 Warp C (stereo).wav
+SPACE WARPS\SPACE WARP Type 02 Warp D (stereo).wav
+SPACE WARPS\SPACE WARP Type 02 Warp E (stereo).wav
+SPACE WARPS\SPACE WARP Type 02 Warp F (stereo).wav
+SPACE WARPS\SPACE WARP Type 02A Charge Up 1 (stereo).wav
+SPACE WARPS\SPACE WARP Type 02A Charge Up 2 (stereo).wav
+SPACE WARPS\SPACE WARP Type 02A Max Charge (loop stereo).wav
+SPACE WARPS\SPACE WARP Type 02B Charge Up 1 (stereo).wav
+SPACE WARPS\SPACE WARP Type 02B Charge Up 2 (stereo).wav
+SPACE WARPS\SPACE WARP Type 02B Max Charge (loop stereo).wav
+SPACE WARPS\SPACE WARP Type 02C Charge Up 1 (stereo).wav
+SPACE WARPS\SPACE WARP Type 02C Max Charge (loop stereo).wav
+SPACE WARPS\SPACE WARP Type 03 Warp A (stereo).wav
+SPACE WARPS\SPACE WARP Type 03 Warp B (stereo).wav
+SPACE WARPS\SPACE WARP Type 03 Warp C (stereo).wav
+SPACE WARPS\SPACE WARP Type 03 Warp D Subtle (stereo).wav
+SPACE WARPS\SPACE WARP Type 03 Warp E (stereo).wav
+SPACE WARPS\SPACE WARP Type 03 Warp F (stereo).wav
+SPACE WARPS\SPACE WARP Type 03A Charge Up 1 (stereo).wav
+SPACE WARPS\SPACE WARP Type 03A Charge Up 1 Deep (stereo).wav
+SPACE WARPS\SPACE WARP Type 03A Charge Up 2 (stereo).wav
+SPACE WARPS\SPACE WARP Type 03A Max Charge (loop stereo).wav
+SPACE WARPS\SPACE WARP Type 03B Charge Up 1 (stereo).wav
+SPACE WARPS\SPACE WARP Type 03B Max Charge (loop stereo).wav
+TIME WARPS\TIME WARP Start 01 (mono).wav
+TIME WARPS\TIME WARP Start 02 (mono).wav
+TIME WARPS\TIME WARP Start 03 (mono).wav
+TIME WARPS\TIME WARP Start 04 (mono).wav
+TIME WARPS\TIME WARP Start 05 (mono).wav
+TIME WARPS\TIME WARP Start 06 (mono).wav
+TIME WARPS\TIME WARP Stop 01 (mono).wav
+TIME WARPS\TIME WARP Stop 02 (mono).wav
+TIME WARPS\TIME WARP Stop 03 (mono).wav
+TIME WARPS\TIME WARP Stop 04 (mono).wav
+TIME WARPS\TIME WARP Stop 05 (mono).wav
+TIME WARPS\TIME WARP Stop 06 (mono).wav
+TOOLS\TOOL Compressed Air Burst (mono).wav
+TOOLS\TOOL Hammer Nail RR1.wav
+TOOLS\TOOL Hammer Nail RR2.wav
+TOOLS\TOOL Nailgun (mono).wav
+TOOLS\TOOL Saw Wood (loop mono).wav
+VEHICLES\Air\Airplanes\PROPELLER ENGINE Loop 02 (loop mono).wav
+VEHICLES\Air\Helicopters\HELICOPTER Flyby Left to Right (stereo).wav
+VEHICLES\Air\Helicopters\HELICOPTER Flyby Left to Right Short (stereo).wav
+VEHICLES\Air\Helicopters\HELICOPTER Flyby Right to Left Fast (stereo).wav
+VEHICLES\Air\Helicopters\HELICOPTER Hover Deep (loop mono).wav
+VEHICLES\Air\Helicopters\HELICOPTER Hover Distant Long (loop mono).wav
+VEHICLES\Air\Helicopters\HELICOPTER Hover Distant Subtle (loop mono).wav
+VEHICLES\Air\Helicopters\HELICOPTER Hover Fast (loop mono).wav
+VEHICLES\Air\Helicopters\HELICOPTER Hover Roar (loop mono).wav
+VEHICLES\Air\Helicopters\HELICOPTER Hover Smooth Short (loop mono).wav
+VEHICLES\Air\Helicopters\HELICOTPER Hover Smooth Long (loop mono).wav
+VEHICLES\Land\Cars\CAR Door Close (mono).wav
+VEHICLES\Land\Cars\CAR Door Open (mono).wav
+VEHICLES\Land\Cars\CAR Engine Revs By Engine (mono).wav
+VEHICLES\Land\Cars\CAR Engine Revs By Tailpipe (mono).wav
+VEHICLES\Land\Cars\CAR Engine Revs Interior By Firewall (mono).wav
+VEHICLES\Land\Cars\CAR Engine Revs Interior Center Car (stereo).wav
+VEHICLES\Land\Cars\CAR Engine Revs Mixed (stereo).wav
+VEHICLES\Land\Cars\CAR Horn Long 5 Meters Away (mono).wav
+VEHICLES\Land\Cars\CAR Horn Long By Engine (mono).wav
+VEHICLES\Land\Cars\CAR Horn Long Inside Car (mono).wav
+VEHICLES\Land\Cars\CAR Horn Long Mixed (mono).wav
+VEHICLES\Land\Cars\CAR Horn Medium 5 Meters Away (mono).wav
+VEHICLES\Land\Cars\CAR Horn Medium By Engine (mono).wav
+VEHICLES\Land\Cars\CAR Horn Medium Inside Car (mono).wav
+VEHICLES\Land\Cars\CAR Horn Medium Mixed (mono).wav
+VEHICLES\Land\Cars\CAR Horn Short 5 Meters Away (mono).wav
+VEHICLES\Land\Cars\CAR Horn Short By Engine (mono).wav
+VEHICLES\Land\Cars\CAR Horn Short Inside Car (mono).wav
+VEHICLES\Land\Cars\CAR Horn Short Mixed (mono).wav
+VEHICLES\Land\Cars\CAR Interior Electric Window Down (mono).wav
+VEHICLES\Land\Cars\CAR Interior Indicators (loop stereo).wav
+VEHICLES\Land\Cars\CAR Interior Windscreen Wipers (stereo).wav
+VEHICLES\Land\Cars\CAR Start Engine By Engine (mono).wav
+VEHICLES\Land\Cars\CAR Start Engine By Tailpipe (mono).wav
+VEHICLES\Land\Cars\CAR Start Engine Interior By Firewall (mono).wav
+VEHICLES\Land\Cars\CAR Start Engine Interior Center Car (stereo).wav
+VEHICLES\Land\Cars\CAR Start Engine Mixed (stereo).wav
+VEHICLES\Space\SPACE CRAFT Hover 01 (loop mono).wav
+VEHICLES\Space\SPACE CRAFT Hover 02 (loop mono).wav
+VEHICLES\Space\SPACE CRAFT Hover 03 (loop mono).wav
+VEHICLES\Space\SPACE CRAFT Hover 04 (loop mono).wav
+VEHICLES\Water\Submarine\SUBMARINE Sonar Ping 01 Bright (stereo).wav
+VEHICLES\Water\Submarine\SUBMARINE Sonar Ping 01 Diffuse (stereo).wav
+VEHICLES\Water\Submarine\SUBMARINE Sonar Ping 02 Deep (stereo).wav
+VEHICLES\Water\Submarine\SUBMARINE Sonar Ping 04 Pop (stereo).wav
+VEHICLES\Water\Submarine\SUBMARINE Sonar Ping 05 Pop Short (stereo).wav
+VEHICLES\Water\Submarine\SUBMARINE Sonar Ping 06 Dual Tone (stereo).wav
+VEHICLES\Water\Submarine\SUBMARINE Sonar Ping 07 Dual Tone Bright (stereo).wav
+
+RENAMED / MOVED -------------------------------------------------------------------------
+Category "\VEHICLES\Thrusters" moved to "\THRUSTERS & FLAMES"
+Category "\ELEVATORS" renamed to "\ELEVATORS & LIFTS"
+Car Engine Sounds moved into sub category "Engine Loops"
+
+REMOVED ---------------------------------------------------------------------------------
+(none)

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8740e6c622e76b74f8a0a39d54d1e1c1
+labels:
+- USFX
+- elevator
+- lift
+- v1.1
+- loop
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

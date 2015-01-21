@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 04409955509566d409b89940dc2d168f
+labels:
+- USFX
+- mono
+- foley
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 249a2aaddeb099342a434d7d4cd48129
+labels:
+- musiceffect
+- USFX
+- 8bit
+- retro
+- sid
+- chip
+- stereo
+- negative
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 
