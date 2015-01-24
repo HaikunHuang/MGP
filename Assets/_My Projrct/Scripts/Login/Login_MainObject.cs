@@ -16,8 +16,15 @@ public class Login_MainObject : MonoBehaviour
 		// first check if the user has login 
 		if (Is_Login())
 		{
-			// directly jump to game main menu
-			Global_Tools.Goto_Next_Stage_via_PreLoading(Global_Tools.gameMainMenu_Stage);
+			// did user play tutor battle already?
+			if (!ES2.Exists(Global_Tools.globalData_tutor_battle))
+			{
+				Global_Tools.Goto_Next_Stage_via_PreLoading(Global_Tools.tutor_battle_Stage);
+			}
+			else
+			{
+				Global_Tools.Goto_Next_Stage_via_PreLoading(Global_Tools.gameMainMenu_Stage);
+			}
 		}
 	}
 	
@@ -59,8 +66,15 @@ public class Login_MainObject : MonoBehaviour
 		ES2.Save(username.text,Global_Tools.userInfo_username_Tag);
 		ES2.Save(password.text,Global_Tools.userInfo_userpsw_Tag);
 
-
-		Global_Tools.Goto_Next_Stage_via_PreLoading(Global_Tools.gameMainMenu_Stage);
+		// did user play tutor battle already?
+		if (!ES2.Exists(Global_Tools.globalData_tutor_battle))
+		{
+			Global_Tools.Goto_Next_Stage_via_PreLoading(Global_Tools.tutor_battle_Stage);
+		}
+		else
+		{
+			Global_Tools.Goto_Next_Stage_via_PreLoading(Global_Tools.gameMainMenu_Stage);
+		}
 	}
 
 	public void Button_Home()

@@ -14,9 +14,12 @@ public class Global_Tools
 	public const string character_baseInfo_Path = "Character/Character_BaseInfo";
 
 	// ES2 idenity
+	// GlobalData
 	public const string globalData_Path = "GlobalData.txt";
 	// public const string nextStageAfterPreLoad_Tag = GlobalData_Path +"?tag=nextStageAfterPreLoad";
+	public const string globalData_tutor_battle = globalData_Path + "?tag=tutor_battle"; // played tutor battle?
 
+	// UserInfo
 	public const string userInfo_Path = "UserInfo.txt";
 	public const string userInfo_username_Tag = userInfo_Path + "?tag=username";
 	public const string userInfo_userpsw_Tag = userInfo_Path + "?tag=userpsw";
@@ -30,6 +33,7 @@ public class Global_Tools
 	public const string gameMainMenu_Stage = "GameMainMenu";
 	public const string downLoadFirst_Stage = "DownLoadFirst";
 	public const string characterViewer_Stage = "CharacterViewer";
+	public const string tutor_battle_Stage = "TutorBattle";
 
 	public static string previous_Stage = mainMenu_Stage;
 	public static string next_Stage = mainMenu_Stage;
