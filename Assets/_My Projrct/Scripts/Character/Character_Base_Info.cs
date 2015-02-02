@@ -68,6 +68,68 @@ public class Character_Base_Info
 
 	}
 
+	public Character_Base_Info(Character_Base_Info info)
+	{
+		// 0
+		// character_id,
+		this.character_id = info.character_id;
+		
+		// 1
+		// model 文件名，Resources中的文件名
+		this.character_model_path = info.character_model_path;
+		
+		// 2
+		// 中文名字
+		this.character_name = info.character_name;
+		
+		// 3
+		// 图标路径
+		this.character_icon_path = info.character_icon_path;
+		this.character_icon = info.character_icon;
+		
+		// 4
+		// 解锁价值$
+		this.character_unlock_value = info.character_unlock_value;
+		
+		// 5
+		// 基础攻击ID
+		this.attack_id = info.attack_id;
+		
+		// 6
+		// 技能名ID
+		this.skill_id = info.skill_id;
+		
+		// 7
+		// 大招名ID
+		this.power_attack_id = info.power_attack_id;
+		
+		// 8
+		// 基础血量
+		this.base_hp = info.base_hp;
+		
+		// 9
+		//基础物理攻击
+		this.base_attack = info.base_attack;
+		
+		// 10
+		// 基础魔法攻击
+		this.base_magic = info.base_magic;
+		
+		// 11
+		// 进场攻击顺序 例如 0|0|1|1,0为基础攻击，1为技能攻击
+		this.charge_attack_order = info.charge_attack_order;
+		
+		// 12
+		// 循环攻击, 例如 0|1|0|1
+		this.loop_attack_order = info.loop_attack_order;
+		
+		//13
+		//备注，使用全角符号。
+		this.comment = info.comment;
+
+
+	}
+
 
 	public void Init()
 	{
