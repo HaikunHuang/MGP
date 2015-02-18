@@ -4,7 +4,7 @@ using System.Collections;
 public class TutorBattle_MainObject : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () 
+	void Awake () 
 	{
 		Global_Tools.UpToDate();
 				

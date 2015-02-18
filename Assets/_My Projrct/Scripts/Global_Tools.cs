@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 /*
  * Application.persistentDataPath:
@@ -49,6 +50,9 @@ public class Global_Tools
 	// global setting
 	public static bool isUpToDate = false;
 
+	// compass default trueHeading
+	public static float compass_default_trueHeading = 0.0f;
+
 	// this function will be used mostly by users who wants to change the stage before loading data.
 	static public void Goto_Next_Stage_via_PreLoading(string next_stage_name)
 	{
@@ -93,5 +97,7 @@ public class Global_Tools
 			Application.LoadLevel(downLoadFirst_Stage);
 		}
 	}
+
+
 
 }

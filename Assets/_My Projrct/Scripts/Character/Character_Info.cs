@@ -6,6 +6,7 @@
 
 using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Character_Info : MonoBehaviour
 {
@@ -40,11 +41,7 @@ public class Character_Info : MonoBehaviour
 	public int current_HP = 0;
 	// public int current_SP = 0; // skill power;
 
-	public Character_Info()
-	{
-
-	}
-
+	
 
 	// 
 	public void Init(string char_id)
@@ -96,5 +93,50 @@ public class Character_Info : MonoBehaviour
 		// 抵抗沉默	技能提升等级	备注，使用全角符号。
 		anti_silence = 0;
 		skill_up = 0;
+	}
+
+	// 计算各种属性
+	public void Calculate_All()
+	{
+		Character_Equipment equipment = gameObject.GetComponent<Character_Equipment>();
+		
+		Clear_Info();
+		
+		// 计算道具中的所有属性
+		foreach(string equipID in equipment.list_equipIDs)
+		{
+			Item_Equipment equip = Global_Item_Manager.Get_Item(equipID) as Item_Equipment;
+			
+			// 力量	智力	敏捷	生命值	物理攻击力	魔法攻击力	
+			power 		+= equip.power;
+			wis 			+= equip.wis;
+			agi 			+= equip.agi;
+			HP 			+= equip.HP;
+			attack 		+= equip.attack;
+			magic 		+= equip.magic;
+			// 物理防御	魔法防御	物理暴击	魔法暴击	物理穿透	
+			anti_attack 	+= equip.anti_attack;
+			anti_magic 	+= equip.anti_magic;
+			attack_crit 	+= equip.attack_crit;
+			magic_crit 	+= equip.magic_crit;
+			attack_ap 	+= equip.attack_ap;
+			// 魔法穿透	吸血	物理反伤	命中	闪避	生命回复量	
+			magic_ap 		+= equip.magic_ap;
+			vampire 		+= equip.vampire;
+			attack_back 	+= equip.attack_back;
+			hit			+= equip.hit;
+			dodge 		+= equip.dodge;
+			life_restore 	+= equip.life_restore;
+			// 抵抗沉默	技能提升等级	备注，使用全角符号。
+			anti_silence 	+= equip.anti_silence;
+			skill_up 		+= equip.skill_up;
+		}
+		
+		// calculate with buff
+
+		//calculate with debuff
+
+
+		
 	}
 }

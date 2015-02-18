@@ -15,6 +15,8 @@ public class Role_Tags : MonoBehaviour
 		Team_Red, // or called player team
 		Team_Blue, // or called enemy team
 
+		Role_Player, // player id
+
 		// or other special team
 		Skeleton
 	}

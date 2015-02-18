@@ -11,6 +11,8 @@ public class DownLoadFirst_MainObject : MonoBehaviour {
 	// Use this for initialization
 	void Start () 
 	{
+		// enable the compass function.
+		Input.compass.enabled = true;
 		// setup the FPS fixed it at 60
 		Application.targetFrameRate = 60;
 		// set up to data false
